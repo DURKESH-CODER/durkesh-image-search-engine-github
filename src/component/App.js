@@ -35,7 +35,7 @@ constructor(props){
         </Routes>
         </BrowserRouter>
        <div>
-        DURKESH KUMAR SEARCH ENGINE !!!
+        DURKESH KUMAR SEARCH ENGINE ...
         </div> 
       <div className='ui container' style={{marginTop:'30px'}}>
         <SearchInput onSearchSubmit={this.onSearchSubmit}/>
